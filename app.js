@@ -1,1 +1,1 @@
-console.log('hello from vscode');
+console.log('hello from all');
