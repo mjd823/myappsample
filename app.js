@@ -1,1 +1,1 @@
-console.log('hello from github.com');
+console.log('hello from vscode');
