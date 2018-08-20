@@ -1,2 +1,1 @@
-console.log('hello from everywhere');
-console.log('hello from all');
+console.log('hello world');
